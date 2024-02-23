@@ -9,7 +9,7 @@
 
 
 <br>
-<h2 align="center">Technology Stack </h2>
+<h2 align="center">My Skills </h2>
 
 <p align="left">
    <!-- Python + Machine Learning -->
