@@ -1,7 +1,12 @@
 <br>
 <h2 align="center"> My Language Breakdown </h2>
+
+<p align="center">  
   
-<img alt="Top Langs" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodyc86&layout=compact"/>
+<img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodyc86&layout=compact"/>
+
+</p>
+
 
 <br>
 <h2 align="center">Technology Stack </h2>
