@@ -3,7 +3,7 @@
 
 <p align="center">  
   
-<img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodyc86&layout=compact"/>
+<img alt="Top Langs" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodyc86&layout=compact"/>
 
 </p>
 
